@@ -1,5 +1,7 @@
 # Stock Prediction Model
-
+> [!WARNING] 
+> This project is still under development and may contain bugs.
+> 
 This project utilizes Twitter's API for sentiment analysis and predicts stock prices based on sentiment and historical data. The application fetches real-time tweets related to a specific stock symbol, analyzes their sentiment, and predicts future stock prices using machine learning.
 
 ## Table of Contents
